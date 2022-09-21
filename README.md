@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kpriya05
+- 👋 Hi, I’m Priya
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/priya-kumari-8152bb250/)
+- 📫 How to reach me at [Linkedin](https://www.linkedin.com/in/priya-kumari-8152bb250/)
 
